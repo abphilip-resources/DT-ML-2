@@ -8,4 +8,4 @@
 - [ ] [**`Intro to Game AI`**]()
 - [ ] [**`Intro to Deep Learning`**]()
 - [ ] [**`Intermediate Machine Learning`**]()
-- [ ] [**`Machine Learning Explainability`**]()
+- [ ] [**`Machine Learning Explainability`**](https://github.com/abphilip-resources/DT-ML-2/tree/master/Explainability/Certificate.png)
