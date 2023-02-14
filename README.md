@@ -1,7 +1,7 @@
 # Data: Kaggle Courses II
 
 - [x] [**`Intro to SQL`**](https://github.com/abphilip-resources/DT-ML-2/tree/master/SQL%20Introduction/Certificate.png) 
-- [ ] [**`Advanced SQL`**]() 
+- [x] [**`Advanced SQL`**](https://github.com/abphilip-resources/DT-ML-2/tree/master/SQL%20Advanced/Certificate.png) 
 - [ ] [**`Time Series`**]()
 - [ ] [**`Computer Vision`**]()
 - [ ] [**`Geospatial Analysis`**]()
