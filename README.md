@@ -2,7 +2,7 @@
 
 - [x] [**`Intro to SQL`**](https://github.com/abphilip-resources/DT-ML-2/tree/master/SQL%20Introduction/Certificate.png) 
 - [x] [**`Advanced SQL`**](https://github.com/abphilip-resources/DT-ML-2/tree/master/SQL%20Advanced/Certificate.png) 
-- [ ] [**`Time Series`**]()
+- [x] [**`Time Series`**](https://github.com/abphilip-resources/DT-ML-2/tree/master/Time%20Series/Certificate.png)
 - [ ] [**`Computer Vision`**]()
 - [ ] [**`Geospatial Analysis`**]()
 - [ ] [**`Intro to Game AI`**]()
