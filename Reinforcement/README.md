@@ -1,4 +1,4 @@
-# Kaggle: Machine Learning Reinforcement
+# Kaggle: Intro to Game AI and Reinforcement Learning
 
 **Play the Game :**
 [`Lesson`](https://github.com/abphilip-resources/DT-ML-2/blob/master/Reinforcement/A1.ipynb) | [`Exercise`](https://github.com/abphilip-resources/DT-ML-2/blob/master/Reinforcement/E1.ipynb)
