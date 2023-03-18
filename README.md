@@ -6,6 +6,6 @@
 - [ ] [**`Computer Vision`**]()
 - [ ] [**`Geospatial Analysis`**]()
 - [ ] [**`Intro to Game AI`**]()
-- [ ] [**`Intro to Deep Learning`**]()
+- [x] [**`Intro to Deep Learning`**](https://github.com/abphilip-resources/DT-ML-2/tree/master/Reinforcement/Certificate.png)
 - [x] [**`Intermediate Machine Learning`**](https://github.com/abphilip-resources/DT-ML-2/tree/master/Intermediate/Certificate.png)
 - [x] [**`Machine Learning Explainability`**](https://github.com/abphilip-resources/DT-ML-2/tree/master/Explainability/Certificate.png)
